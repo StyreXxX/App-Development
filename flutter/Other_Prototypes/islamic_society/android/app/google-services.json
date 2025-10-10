@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349039262453",
+    "project_id": "islamic-society-7730b",
+    "storage_bucket": "islamic-society-7730b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349039262453:android:9e81f0152705d1ada623bc",
+        "android_client_info": {
+          "package_name": "com.example.islamic_society"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWiOvJzrwHstjbAoOmG7cLDspdngLQVYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
